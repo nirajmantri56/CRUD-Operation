@@ -12,3 +12,4 @@ and input body in the JSON format as -
 2.For getting an item by id, send the GET request as -  'https://crud-operation-production-1d01.up.railway.app/items/id' 
 (ex. '/items/1' here 1 is id number)
 
+Validation is also enabled. 
